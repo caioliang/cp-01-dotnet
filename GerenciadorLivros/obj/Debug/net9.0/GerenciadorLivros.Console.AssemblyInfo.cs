@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorLivros.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c15f76f60c39d454456579a423a9410e78fc0b51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95c67b5c12b664a87e64ff6d1c1d15d3a29a4e43")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorLivros.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorLivros.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{31D6135F-A25A-4870-9EBE-D2E4BA45D20E}|GerenciadorLivros\\GerenciadorLivros.Console.csproj|solutionrelative:gerenciadorlivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4195C94-DA7A-43BD-870C-20EEE43481A2}|GerenciadorLivros.Lib\\GerenciadorLivros.Lib.csproj|c:\\users\\liang\\source\\repos\\gerenciadorlivros\\gerenciadorlivros.lib\\gerenciador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4195C94-DA7A-43BD-870C-20EEE43481A2}|GerenciadorLivros.Lib\\GerenciadorLivros.Lib.csproj|solutionrelative:gerenciadorlivros.lib\\gerenciador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4195C94-DA7A-43BD-870C-20EEE43481A2}|GerenciadorLivros.Lib\\GerenciadorLivros.Lib.csproj|c:\\users\\liang\\source\\repos\\gerenciadorlivros\\gerenciadorlivros.lib\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4195C94-DA7A-43BD-870C-20EEE43481A2}|GerenciadorLivros.Lib\\GerenciadorLivros.Lib.csproj|solutionrelative:gerenciadorlivros.lib\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4195C94-DA7A-43BD-870C-20EEE43481A2}|GerenciadorLivros.Lib\\GerenciadorLivros.Lib.csproj|c:\\users\\liang\\source\\repos\\gerenciadorlivros\\gerenciadorlivros.lib\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4195C94-DA7A-43BD-870C-20EEE43481A2}|GerenciadorLivros.Lib\\GerenciadorLivros.Lib.csproj|solutionrelative:gerenciadorlivros.lib\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Gerenciador.cs",
-              "DocumentMoniker": "C:\\Users\\Liang\\source\\repos\\GerenciadorLivros\\GerenciadorLivros.Lib\\Gerenciador.cs",
-              "RelativeDocumentMoniker": "GerenciadorLivros.Lib\\Gerenciador.cs",
-              "ToolTip": "C:\\Users\\Liang\\source\\repos\\GerenciadorLivros\\GerenciadorLivros.Lib\\Gerenciador.cs",
-              "RelativeToolTip": "GerenciadorLivros.Lib\\Gerenciador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\source\\repos\\GerenciadorLivros\\GerenciadorLivros.Lib\\Book.cs",
+              "RelativeDocumentMoniker": "GerenciadorLivros.Lib\\Book.cs",
+              "ToolTip": "C:\\Users\\Liang\\source\\repos\\GerenciadorLivros\\GerenciadorLivros.Lib\\Book.cs",
+              "RelativeToolTip": "GerenciadorLivros.Lib\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T01:39:24.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\source\\repos\\GerenciadorLivros\\GerenciadorLivros.Lib\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "GerenciadorLivros.Lib\\BookLibrary.cs",
+              "ToolTip": "C:\\Users\\Liang\\source\\repos\\GerenciadorLivros\\GerenciadorLivros.Lib\\BookLibrary.cs",
+              "RelativeToolTip": "GerenciadorLivros.Lib\\BookLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:27:21.911Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "GerenciadorLivros\\Program.cs",
               "ToolTip": "C:\\Users\\Liang\\source\\repos\\GerenciadorLivros\\GerenciadorLivros\\Program.cs",
               "RelativeToolTip": "GerenciadorLivros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:21:31.842Z",
               "EditorCaption": ""
