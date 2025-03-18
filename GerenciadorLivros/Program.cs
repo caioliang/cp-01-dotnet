@@ -36,8 +36,18 @@ class Program
                     {
                         Console.Write("Preço inválido. Digite novamente: ");
                     }
+                    
+                    Console.Write("Digite a edição do livro: ");
+                    int edition;
+                    while (!int.TryParse(Console.ReadLine(), out edition))
+                    {
+                        Console.Write("Preço inválido. Digite novamente: ");
+                    }
 
-                    manager.CreateBook(titulo, autor, preco);
+                    Console.Write("Digite o resumo do livro: ");
+                    string summary = Console.ReadLine();
+
+                    manager.CreateBook(titulo, autor, preco, edition, summary);
                     break;
 
                 case "2":

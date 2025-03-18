@@ -12,9 +12,9 @@ namespace BookLibrary
 
         private List<Book> books = new List<Book>();
 
-        public void CreateBook(string title, string author, double price)
+        public void CreateBook(string title, string author, double price, int edition, string summary)
         {
-            var book = new Book(title, author, price);
+            var book = new Book(title, author, price, edition, summary);
             books.Add(book);
             Console.WriteLine($"Livro '{title}' adicionado com sucesso!");
         }

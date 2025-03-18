@@ -1,4 +1,6 @@
-﻿namespace GerenciadorLivros.Lib
+﻿using static GerenciadorLivros.Lib.Gerenciador;
+
+namespace GerenciadorLivros.Lib
 {
 
     public class Gerenciador
@@ -21,11 +23,13 @@
 
             //file string InternalCode { get; set; } = Guid.NewGuid().ToString();
 
-            public Book(string title, string author, double price)
+            public Book(string title, string author, double price, int edition, string summary)
             {
                 Title = title;
                 Author = author;
                 Price = price;
+                Edition = edition;
+                Summary = summary;
             }
 
             public void DisplayInfo()
